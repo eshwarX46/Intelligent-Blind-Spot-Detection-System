@@ -170,7 +170,6 @@ A phone may report **“Connected without internet”**—this is expected for a
 
 The web interface displays current distances and risk classifications, simulated speed and active limits, radar UART connectivity, ESP32 uptime, zone history charts, and recent risk transitions. **History and event entries are held in the browser session**, not permanently stored on the ESP32.
 
-> **Security note:** The SSID and password above are demonstration defaults also present in the firmware. Change them before using the project in a shared or public environment.
 
 ## Software and Libraries
 
